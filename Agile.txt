@@ -1,0 +1,58 @@
+Agile:
+
+time bounded, well planned
+
+waterfall is traditional project management has drawbacks
+steps in waterfall: requirements, design, implementation, verification, maintenance.
+small problem causes entire project fall
+time required to push changes
+
+Agile provides more control on your project, better productivity & quality,
+high customer satisfaction, high return investment.
+
+what is Agile?
+
+iterative approach to software delivery
+delivering faster in less time and less money
+ability to create and quickly respond to change
+philosophy to rapidly deploy an application
+full loaded tool-kit
+
+manifesto:
+individuals and interactions over processes and tools
+working software over comprehensive documentation
+customer collaboration over contract negotiation with customer
+responding to change over following a plan
+
+principles:
+customer satisfaction
+welcome change
+
+
+build, deliver, learn, adjust  -  agile 
+
+waterfall - not sequential, not defined requirements, not deliver quality products, not rigid process, but have flexibility, Continually evolving
+
+agile: sequential, not flexible, defined requirements, not deliver quality products, not continually evolving, rigid process
+
+use waterfall, if fixed price and no change, simple project, working with orderly and predictable projects
+
+use agile, if final product is not clearly defined, modify the scope, rapid deployment is the goal.
+
+advantages: faster, high quality, strong team interaction, continuous improvement
+
+key agile concepts:
+product backlog and product roadmap
+
+burn down chart: visual representation of completed work and remaining, sprint, iteration. redline(estimated effort), blue line (actual effort)
+
+scrum:
+is a process framework used to manage product development and other knowledge work and having set of rules
+4 components are scrum rules, scrum team, scrum events, scrum artifacts.
+
+3 pillars: transparency, inspection, adaption
+
+
+
+
+
