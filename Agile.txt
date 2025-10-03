@@ -1,6 +1,5 @@
 Agile:
 
-time bounded, well planned
 
 waterfall is traditional project management has drawbacks
 steps in waterfall: requirements, design, implementation, verification, maintenance.
@@ -51,6 +50,7 @@ is a process framework used to manage product development and other knowledge wo
 4 components are scrum rules, scrum team, scrum events, scrum artifacts.
 
 3 pillars: transparency, inspection, adaption
+
 
 
 
